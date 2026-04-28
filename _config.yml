@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Neuroinformatics R&D Group
-email: arokem@uw.edu
+title: Rokem Neuroinformatics R&D Group
+email: Ariel.Rokem@camh.ca
 description: > # this means to ignore newlines until "baseurl:"
   XXX
 baseurl: ""
@@ -26,8 +26,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
 
 # Markdown Processing
 kramdown:
